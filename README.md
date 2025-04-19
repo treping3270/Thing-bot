@@ -25,7 +25,7 @@ Features currently supported:
 3. Maple Story search function (Putting out various information such as user's combat power, nickname, level, occupation, etc.)
 4. Riot user search function (Picture the user's level, nickname, solo rank, and free rank information)
 
-bot comman :
+bot command :
 !레벨 = Outputs the user's level information as an image.
 !레벨 순위 = Outputs the level ranking of all users.
 !메이플정보 [nickname] = Outputs the character information of the nickname as an image. (Maple Story)
